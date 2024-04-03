@@ -1,0 +1,5 @@
+Локатор кнопки Войти - .header2-nav-item-link[href='/context/login/']
+Локатор кнопки Заказы - .header2-nav-item-link[href='/my/main']
+Локатор ссылки OZON Job (в футере) - .footer .footer__item:nth-child(4) a
+Локатор выбора валюты (верхний левый угол страницы) - .header2 .header2-inner .currency_selector
+Локатор выпадашки Везде (в поисковой строке) - .search-form__select
